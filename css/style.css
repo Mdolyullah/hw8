@@ -1,0 +1,45 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+
+
+.container{
+	overflow:hidden;
+	
+}
+.blog{
+	float: left;
+	width: 60%;
+	height: 150px;
+	background-color: green;
+}
+.contact{
+	float: right;
+	width: 40%;
+	height: 150px;
+	background-color: blue;
+}
+.wrapper{
+	overflow: hidden;
+}
+.item{
+	float: left;
+	width: 33.33%;
+	height: 100px;
+}
+.yellow{
+	background-color: yellow;
+}
+.tomato{
+	background-color: tomato;
+}
+.line{
+	background-color: limegreen;
+}
+
+.footer{
+	/*clear: both;*/
+	height: 100px;
+	background-color: black;
+}
